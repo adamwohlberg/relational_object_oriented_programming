@@ -1,4 +1,16 @@
-**Quantum Mechanics - Light/Particle Duality**
+**Current Relationships in Rails**
+
+Rails currently defines relationships in a limited way in the form of associations -> has_one, has_many, HABTM etc.
+allowing you to navigate through one db table to another through the relationships.
+
+However...
+
+Relational-oriented program adds to this by also...
+
+a) Modularizing functions so that certain of an object's functions can only be called on specific objects and not on others.  
+b.)  Moving the methods and attributes into another object.
+From the work of Fritz Perls and Gestalt Therapy, objects come to the foreground in our consciounsess depending on how we relate to them.  They have only relative reality.  In programming, we might say that the attributes, methods and relationships of the object do not exist independently, but only in the relationship between the objects.  Not dissimilar to the Force of Gravity (defined below) it exists on in relation to objects - it is a description of the relationship.
+
 
 **Newtonian Physics - Gravity**
 
@@ -42,5 +54,47 @@ end
 ....so should it really be defined in the chicken?  It's purpose is defined by the OTHER object - shouldn't it be defined in the OTHER object???
 
 
+**Quantum Mechanics - Light/Particle Duality**
 
+In relation to subatomic particles we recently discovered that not only photons but also larger particles such as protons behave as EITHER a light or as a wave.
+
+Hence, it would be incorrect to model reality on the basis of Object Oriented Programming alone. 
+
+In an OOP view of reality, you can define a particle - it has attributes (e.g. mass, velocity); however, what about it's waviness?
+
+As Alan Watts commented on the Prickles and Goo world views, the OOP model is prickly, but where is the Goo? 
+
+How can you, in OOP define a particle that sometimes behave like a wave and sometimes behave like a particle?  And that it happens to do so depending on the Observer object.
+
+If our experiments with reality are telling us that this is the nature of things, shouldn't our programming methodology to model the domain of things follow the scientific evidence?
+
+Perhaps not...perhaps we live in a world of Cars and Chickens, Planets and Carburators and OOP is sufficient, but as programming evolves and our understanding of the Universe evolves, I imagine we will need to move beyond OOP.
+
+Where would these relationships be defined?
+
+**The Haystack**
+
+Fritz Perls describes a haystack as having relative existence.  To the farmer a haystack in money and food. To the two lovers walking together - a soft place to lay together. To the criminal on the run - a place to hide.  It seems like the functions of the Object are not defined by the object as an independent thing-in-itself, but by another Object in relation to itself.
+
+Is light a particle or a wave?
+
+If you create an Object...
+
+class Light
+
+end
+
+...aren't you already in trouble defining light as an object?  If it's a wave, it's not an object.
+
+And gravity, the force acting in relation to two objects and not existing except if both objects exists - is Gravity and Object? 
+
+It seems that these observed elements of our physical reality don't fall so easily into the Object Oriented Model.
+
+
+
+
+
+**Einstein and Relativity**
+
+**Heisenberg Uncertainty Principle**
 
