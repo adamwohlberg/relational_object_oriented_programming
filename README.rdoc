@@ -1,28 +1,46 @@
-== README
+**Quantum Mechanics - Light/Particle Duality**
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Newtonian Physics - Gravity**
 
-Things you may want to cover:
+When you have two Objects, the formula for the force of gravity acting upon each object is:
 
-* Ruby version
+F = (m1 * m2) / r**2
 
-* System dependencies
+Is the force of gravity defined in the class of the object,
+for example in:
 
-* Configuration
+class Planet >>
 
-* Database creation
+end
 
-* Database initialization
+Well, the force of gravity seems to exist in the field which all Objects inherit?
 
-* How to run the test suite
+Maybe...
 
-* Services (job queues, cache servers, search engines, etc.)
+class Objects < TheField
 
-* Deployment instructions
+end
 
-* ...
+and within that field any object acts on any other object with a force relative to all objects within the area governed by the equation that relates their mass with the distance between them.
+
+**Relative Reality**
+
+A chicken relative to a carnivore is food.
+A chicken relative to a vegetarian is a pet.
+
+Class Chicken
+
+end
+
+Perhaps certain functions in the class can been in a module such that being eaten is only available to the carnivore.  Also, the eating is something that arises from the desire of the 
+
+class Carnivore 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+end
+
+....so should it really be defined in the chicken?  It's purpose is defined by the OTHER object - shouldn't it be defined in the OTHER object???
+
+
+
+
